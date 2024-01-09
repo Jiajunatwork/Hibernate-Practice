@@ -15,7 +15,7 @@ public class Toy {
 	@Column(name = "NAME")
 	private String name;
 	
-	@Column(name = "FACTORY_PRICE")
+	@Column(name = "FACTORY_PRICE") 
 	private double factoryPrice;
 	
 	@Column(name = "RATING")
